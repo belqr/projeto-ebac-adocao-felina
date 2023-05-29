@@ -24,6 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O CatPurr é um projeto criado a partir das aulas do curso de engenheiro front-end da Instituição EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
-- [Visite o projeto online](https://site-gamesshop-ebac-one.vercel.app/)
+- [Visite o projeto online](https://catpurr-projeto1-ebac.vercel.app/)
 
 
